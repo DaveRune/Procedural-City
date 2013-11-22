@@ -1,8 +1,10 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\CityGeneration\PointGeneration.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\RiverGeneration\River2.cs">
     <Files>
-      <File FileName="Assets\Scripts\CityGeneration\PointGeneration.cs" Line="59" Column="64" />
+      <File FileName="Assets\Scripts\CityGeneration\PointGeneration2.cs" Line="289" Column="3" />
+      <File FileName="Assets\Scripts\RiverGeneration\River1.cs" Line="23" Column="41" />
+      <File FileName="Assets\Scripts\RiverGeneration\River2.cs" Line="40" Column="39" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

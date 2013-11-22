@@ -45,6 +45,9 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\CityGeneration\PointGeneration.cs" />
+     <Compile Include="Assets\Scripts\CityGeneration\PointGeneration2.cs" />
+     <Compile Include="Assets\Scripts\RiverGeneration\River1.cs" />
+     <Compile Include="Assets\Scripts\RiverGeneration\River2.cs" />
      <None Include="Assets\Resources\Shaders\AlphaSelfIllum.shader" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
